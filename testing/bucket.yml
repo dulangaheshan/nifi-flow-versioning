@@ -1,0 +1,6 @@
+flows:
+  b221a92b-d404-4804-881b-edcec5a3cdc5: {ver: 1, file: schema-generatior.snapshot,
+    comments: test-schema generator, author: anonymous, created: 1697981990929, flowName: schema-generatior,
+    flowDesc: test-schema generator}
+layoutVer: 1
+bucketId: e876c98d-43f2-40c1-9769-4f98e93d0cb5
